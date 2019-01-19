@@ -14,6 +14,7 @@
 		693A8D1F21F1ECC900939419 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 693A8D1D21F1ECC900939419 /* LaunchScreen.storyboard */; };
 		693A8D2A21F1ECC900939419 /* TicTacToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 693A8D2921F1ECC900939419 /* TicTacToeTests.swift */; };
 		693A8D3521F1ECC900939419 /* TicTacToeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 693A8D3421F1ECC900939419 /* TicTacToeUITests.swift */; };
+		69668AEA21F2E08C004B0B2A /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = 69668AE921F2E08C004B0B2A /* board.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		693A8D3021F1ECC900939419 /* TicTacToeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacToeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		693A8D3421F1ECC900939419 /* TicTacToeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeUITests.swift; sourceTree = "<group>"; };
 		693A8D3621F1ECC900939419 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		69668AE921F2E08C004B0B2A /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = board.png; path = ../../../../Downloads/tictactoeimages/board.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				693A8D1421F1ECC700939419 /* AppDelegate.swift */,
 				693A8D1621F1ECC700939419 /* ViewController.swift */,
 				693A8D1821F1ECC700939419 /* Main.storyboard */,
+				69668AE921F2E08C004B0B2A /* board.png */,
 				693A8D1B21F1ECC900939419 /* Assets.xcassets */,
 				693A8D1D21F1ECC900939419 /* LaunchScreen.storyboard */,
 				693A8D2021F1ECC900939419 /* Info.plist */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				69668AEA21F2E08C004B0B2A /* board.png in Resources */,
 				693A8D1F21F1ECC900939419 /* LaunchScreen.storyboard in Resources */,
 				693A8D1C21F1ECC900939419 /* Assets.xcassets in Resources */,
 				693A8D1A21F1ECC700939419 /* Main.storyboard in Resources */,
